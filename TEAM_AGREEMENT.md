@@ -7,7 +7,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | :--- | :--- | :--- |
 | [Deivy Yesid Acosta Acuña] | Líder (Arquitecto) | `@DeivyAcosta1523-pixel` |
 | [Santiago Orozco Gomez] | Desarrollador | `@Santiagoo31` |
-| [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
+| [Andres Felipe Dulcey Guerrero] | Desarrollador | `@andresdulcey417-ship-it` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
